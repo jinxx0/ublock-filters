@@ -1,3 +1,5 @@
+! Youtube UBlock Filter
+! github.com/lilcsz
 www.youtube.com###ad-action-interstitial\:2
 www.youtube.com###ad-action-interstitial\:b
 www.youtube.com###ad-action-interstitial\:m
