@@ -1,5 +1,5 @@
 # Ublock-filters
 ## YouTube:
-https://raw.githubusercontent.com/lilcsz/ublock-filters/main/ublock-youtube.txt
+https://pastebin.com/dl/rr0WBjC2
 
 ### Create a pull request if you have your own filter list
