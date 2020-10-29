@@ -1,5 +1,5 @@
-! Youtube UBlock Filter
-! github.com/lilcsz
+! Title: YouTube Filter
+! Homepage: https://github.com/lilcsz/ublock-filters
 www.youtube.com###ad-action-interstitial\:2
 www.youtube.com###ad-action-interstitial\:b
 www.youtube.com###ad-action-interstitial\:m
