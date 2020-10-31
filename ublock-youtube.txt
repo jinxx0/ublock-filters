@@ -1,5 +1,7 @@
 ! Title: YouTube Filter
 ! Homepage: https://github.com/lilcsz/ublock-filters
+! Licence: https://github.com/lilcsz/ublock-filters/blob/main/LICENSE
+! Version: 1.0
 www.youtube.com###ad-action-interstitial\:2
 www.youtube.com###ad-action-interstitial\:b
 www.youtube.com###ad-action-interstitial\:m
